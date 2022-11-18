@@ -43,5 +43,5 @@ python generator.py --temperature=1.0 --load_path=./checkpoint/~~~.tar --tmp_sen
 
 ***
 ### 참고
-https://github.com/gyunggyung/KoGPT2-FineTuning
+https://github.com/gyunggyung/KoGPT2-FineTuning <br>
 https://github.com/sohyeon98720/NLP
